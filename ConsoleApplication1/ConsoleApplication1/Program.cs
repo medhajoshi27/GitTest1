@@ -11,8 +11,8 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             //hello
-            //code snippet was added in git hub 
-            Console.Writeline("HELLO");
+           
+            
         }
     }
 }
