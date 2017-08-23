@@ -15,7 +15,7 @@ namespace ConsoleApplication1
             Console.WriteLine("World");
             //medha
             //in vs 
-            Console.WriteLine(Medha);
+            Console.WriteLine("Medha");
         }
     }
 }
